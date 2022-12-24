@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio04 {
 
-    public void desafioImpressora(){
+    public void desafio04(){
 
         Scanner leitor = new Scanner(System.in);
         int N = leitor.nextInt();

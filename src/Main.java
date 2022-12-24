@@ -11,8 +11,8 @@ public class Main {
         Desafio04 desafio04 = new Desafio04();
 
         desafio01.desafio01();
-        desafio02.notasBanco();
+        desafio02.desafio02();
         desafio03.Desafio03();
-        desafio04.desafioImpressora();
+        desafio04.desafio04();
     }
 }

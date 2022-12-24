@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio02 {
 
-    public void notasBanco(){
+    public void desafio02(){
         Scanner leitor = new Scanner(System.in);
         double dinheiroTotal = leitor.nextDouble();
         int notas = (int) dinheiroTotal;
